@@ -3,13 +3,14 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T17:45:47.090Z",
-  "lastSeen": "2026-02-26T17:47:39.407Z",
+  "lastSeen": "2026-02-26T17:47:41.067Z",
   "sessions": 2,
   "totalIds": 3,
   "batches": [
     {"ids":"(3),2026-02-26T17:46:09.437Z,(103735357,127361952,217104263)"}
   ],
   "closedImgs": [
-    {"t":"2026-02-26T17:46:37.796Z","items":["103735357|https://lt2.pigugroup.eu/colours/104/859/307/104859307/galvugalio-uzvalkalas-pickify-e9ff299be95f7e6648343d8deb89f232_reference.jpg","217104263|https://lt2.pigugroup.eu/colours/217/840/173/217840173/alasou-lauko-kedziu-uzvalkalai-neperslampami-pickify-34e31-online_reference.jpg"]}
+    {"t":"2026-02-26T17:46:37.796Z","items":["103735357|https://lt2.pigugroup.eu/colours/104/859/307/104859307/galvugalio-uzvalkalas-pickify-e9ff299be95f7e6648343d8deb89f232_reference.jpg","217104263|https://lt2.pigugroup.eu/colours/217/840/173/217840173/alasou-lauko-kedziu-uzvalkalai-neperslampami-pickify-34e31-online_reference.jpg"]},
+    {"t":"2026-02-26T17:47:41.067Z","items":["127361952|https://lt2.pigugroup.eu/colours/128/498/927/128498927/putu-sofa-pagalvele-20x20-pickify-519a5-pirkti_reference.jpg"]}
   ]
 }

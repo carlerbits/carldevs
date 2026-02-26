@@ -3,14 +3,15 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T18:37:44.472Z",
-  "lastSeen": "2026-02-26T18:40:41.277Z",
+  "lastSeen": "2026-02-26T18:40:44.651Z",
   "sessions": 2,
   "totalIds": 4,
-  "totalClosedImgs": 2,
+  "totalClosedImgs": 4,
   "batches": [
     {"ids":"(4),2026-02-26T18:38:05.496Z,(240127951,240127916,239623276,223350488)"}
   ],
   "closedImgs": [
-    {"imgs":"(2),2026-02-26T18:38:35.190Z","items":["240127951|https://lt2.pigugroup.eu/colours/240/731/146/240731146/uwell-caliburn-g3-pro-apsauginis-deklas-pickify-f3831-uzsakyti_reference.jpg","223350488|https://lt2.pigugroup.eu/colours/224/083/913/224083913/universalus-dovanu-puodelis-su-dangteliais-pickify-d2b32-vertinimai_reference.jpg"]}
+    {"imgs":"(2),2026-02-26T18:38:35.190Z","items":["240127951|https://lt2.pigugroup.eu/colours/240/731/146/240731146/uwell-caliburn-g3-pro-apsauginis-deklas-pickify-f3831-uzsakyti_reference.jpg","223350488|https://lt2.pigugroup.eu/colours/224/083/913/224083913/universalus-dovanu-puodelis-su-dangteliais-pickify-d2b32-vertinimai_reference.jpg"]},
+    {"imgs":"(2),2026-02-26T18:40:44.651Z","items":["240127916|https://lt2.pigugroup.eu/colours/240/731/111/240731111/uwell-caliburn-g3-pro-apsauginis-deklas-pickify-72271_reference.jpg","239623276|https://lt2.pigugroup.eu/colours/240/225/336/240225336/odinis-tabako-pypkiu-deklas-kelionems-pickify-d4815_reference.jpg"],"Time Difference":"2 mins 9 secs"}
   ]
 }

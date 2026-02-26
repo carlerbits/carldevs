@@ -3,8 +3,12 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T17:28:48.170Z",
-  "lastSeen": "2026-02-26T17:28:55.084Z",
+  "lastSeen": "2026-02-26T17:29:11.453Z",
   "sessions": 3,
-  "totalIds": 0,
-  "batches": []
+  "totalIds": 5,
+  "batches": [
+    {
+      "ids": "(5),2026-02-26T17:29:11.453Z,(238639671,238640701,238258761,238280281,238286186)"
+    }
+  ]
 }

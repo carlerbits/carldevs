@@ -3,12 +3,13 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T17:57:30.324Z",
-  "lastSeen": "2026-02-26T17:58:46.868Z",
+  "lastSeen": "2026-02-26T17:59:24.523Z",
   "sessions": 2,
-  "totalIds": 4,
+  "totalIds": 8,
   "totalClosedImgs": 4,
   "batches": [
-    {"ids":"(4),2026-02-26T17:58:06.799Z,(223210953,223268138,223437223,223467468)"}
+    {"ids":"(4),2026-02-26T17:58:06.799Z,(223210953,223268138,223437223,223467468)"},
+    {"ids":"(4),2026-02-26T17:59:24.523Z,(240127951,240127916,239623276,223350488)"}
   ],
   "closedImgs": [
     {"t":"(2),2026-02-26T17:58:42.108Z","items":["223210953|https://lt2.pigugroup.eu/colours/223/944/378/223944378/gumball-nuostabus-pasaulis-drobes-spaudinys-pickify-1ad0a_reference.jpg","223467468|https://lt2.pigugroup.eu/colours/224/200/893/224200893/5vnt-disney-mickey-ir-draugai-dovanu-maiseliai-8edf2-pirkti_reference.jpg"]},

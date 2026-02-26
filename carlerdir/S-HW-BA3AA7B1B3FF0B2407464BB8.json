@@ -3,11 +3,12 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T17:45:47.090Z",
-  "lastSeen": "2026-02-26T17:49:29.748Z",
+  "lastSeen": "2026-02-26T17:50:03.516Z",
   "sessions": 3,
-  "totalIds": 3,
+  "totalIds": 7,
   "batches": [
-    {"ids":"(3),2026-02-26T17:46:09.437Z,(103735357,127361952,217104263)"}
+    {"ids":"(3),2026-02-26T17:46:09.437Z,(103735357,127361952,217104263)"},
+    {"ids":"(4),2026-02-26T17:50:03.516Z,(223210953,223268138,223437223,223467468)"}
   ],
   "closedImgs": [
     {"t":"2026-02-26T17:46:37.796Z","items":["103735357|https://lt2.pigugroup.eu/colours/104/859/307/104859307/galvugalio-uzvalkalas-pickify-e9ff299be95f7e6648343d8deb89f232_reference.jpg","217104263|https://lt2.pigugroup.eu/colours/217/840/173/217840173/alasou-lauko-kedziu-uzvalkalai-neperslampami-pickify-34e31-online_reference.jpg"]},

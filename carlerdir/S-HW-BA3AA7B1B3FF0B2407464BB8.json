@@ -3,7 +3,7 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T17:28:48.170Z",
-  "lastSeen": "2026-02-26T17:32:26.490Z",
+  "lastSeen": "2026-02-26T17:32:55.429Z",
   "sessions": 5,
   "totalIds": 8,
   "batches": [
@@ -28,6 +28,14 @@
       "t": "2026-02-26T17:30:47.652Z",
       "items": [
         "238280281|https://lt2.pigugroup.eu/colours/238/887/741/238887741/nesiojamas-automobilio-akumuliatoriaus-ikroviklis-ir-starteris-pickify-a4e18-price_reference.jpg"
+      ]
+    },
+    {
+      "t": "2026-02-26T17:32:55.429Z",
+      "items": [
+        "103735357|https://lt2.pigugroup.eu/colours/104/859/307/104859307/galvugalio-uzvalkalas-pickify-e9ff299be95f7e6648343d8deb89f232_reference.jpg",
+        "127361952|https://lt2.pigugroup.eu/colours/128/498/927/128498927/putu-sofa-pagalvele-20x20-pickify-519a5-pirkti_reference.jpg",
+        "217104263|https://lt2.pigugroup.eu/colours/217/840/173/217840173/alasou-lauko-kedziu-uzvalkalai-neperslampami-pickify-34e31-online_reference.jpg"
       ]
     }
   ]

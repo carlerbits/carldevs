@@ -3,14 +3,15 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T18:59:05.672Z",
-  "lastSeen": "2026-02-26T18:59:35.246Z",
+  "lastSeen": "2026-02-26T18:59:42.683Z",
   "sessions": 1,
   "totalIds": 4,
-  "totalClosedImgs": 2,
+  "totalClosedImgs": 4,
   "batches": [
     {"ids":"(4),2026-02-26T18:59:13.093Z,(104419872,238978801,238978806,238978821)"}
   ],
   "closedImgs": [
-    {"imgs":"(2),2026-02-26T18:59:35.246Z","items":["104419872|https://lt2.pigugroup.eu/colours/105/545/027/105545027/langu-valytuvai-pickify-79578-online_reference.jpg","238978801|https://lt2.pigugroup.eu/colours/239/584/096/239584096/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-b3e83_reference.jpg"]}
+    {"imgs":"(2),2026-02-26T18:59:35.246Z","items":["104419872|https://lt2.pigugroup.eu/colours/105/545/027/105545027/langu-valytuvai-pickify-79578-online_reference.jpg","238978801|https://lt2.pigugroup.eu/colours/239/584/096/239584096/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-b3e83_reference.jpg"]},
+    {"Time Difference":"7s             ","imgs":"(2),2026-02-26T18:59:42.683Z","items":["238978806|https://lt2.pigugroup.eu/colours/239/584/101/239584101/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-96468-pirkti_reference.jpg","238978821|https://lt2.pigugroup.eu/colours/239/584/116/239584116/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-05669-pirkti_reference.jpg"]}
   ]
 }

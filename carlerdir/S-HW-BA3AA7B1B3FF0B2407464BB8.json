@@ -3,7 +3,7 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T17:28:48.170Z",
-  "lastSeen": "2026-02-26T17:30:44.985Z",
+  "lastSeen": "2026-02-26T17:30:47.652Z",
   "sessions": 4,
   "totalIds": 5,
   "batches": [
@@ -19,6 +19,12 @@
         "238640701|https://lt2.pigugroup.eu/colours/239/245/796/239245796/motociklo-ratlankiu-stipinu-dangteliai-pickify-65379_reference.jpg",
         "238258761|https://lt2.pigugroup.eu/colours/238/866/221/238866221/automobilio-apvalus-oro-filtras-pickify-b3202-kaina_reference.jpg",
         "238286186|https://lt2.pigugroup.eu/colours/238/893/651/238893651/nesiojamas-automobilio-akumuliatoriaus-ikroviklis-ir-starteris-pickify-0d2ee_reference.jpg"
+      ]
+    },
+    {
+      "t": "2026-02-26T17:30:47.652Z",
+      "items": [
+        "238280281|https://lt2.pigugroup.eu/colours/238/887/741/238887741/nesiojamas-automobilio-akumuliatoriaus-ikroviklis-ir-starteris-pickify-a4e18-price_reference.jpg"
       ]
     }
   ]

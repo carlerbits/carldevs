@@ -3,14 +3,15 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T17:57:30.324Z",
-  "lastSeen": "2026-02-26T17:58:42.108Z",
+  "lastSeen": "2026-02-26T17:58:46.868Z",
   "sessions": 2,
   "totalIds": 4,
-  "totalClosedImgs": 2,
+  "totalClosedImgs": 4,
   "batches": [
     {"ids":"(4),2026-02-26T17:58:06.799Z,(223210953,223268138,223437223,223467468)"}
   ],
   "closedImgs": [
-    {"t":"(2),2026-02-26T17:58:42.108Z","items":["223210953|https://lt2.pigugroup.eu/colours/223/944/378/223944378/gumball-nuostabus-pasaulis-drobes-spaudinys-pickify-1ad0a_reference.jpg","223467468|https://lt2.pigugroup.eu/colours/224/200/893/224200893/5vnt-disney-mickey-ir-draugai-dovanu-maiseliai-8edf2-pirkti_reference.jpg"]}
+    {"t":"(2),2026-02-26T17:58:42.108Z","items":["223210953|https://lt2.pigugroup.eu/colours/223/944/378/223944378/gumball-nuostabus-pasaulis-drobes-spaudinys-pickify-1ad0a_reference.jpg","223467468|https://lt2.pigugroup.eu/colours/224/200/893/224200893/5vnt-disney-mickey-ir-draugai-dovanu-maiseliai-8edf2-pirkti_reference.jpg"]},
+    {"t":"(2),2026-02-26T17:58:46.868Z","items":["223268138|https://lt2.pigugroup.eu/colours/224/001/563/224001563/personalizuoti-velykiniai-krepsiai-zuikio-ausimis-pickify-cd604-internetu_reference.jpg","223437223|https://lt2.pigugroup.eu/colours/224/170/648/224170648/sanrio-animacine-dovanu-dezute-pickify-ba177_reference.jpg"]}
   ]
 }

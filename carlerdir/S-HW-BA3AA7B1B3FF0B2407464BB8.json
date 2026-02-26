@@ -3,12 +3,13 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T18:59:05.672Z",
-  "lastSeen": "2026-02-26T18:59:42.683Z",
+  "lastSeen": "2026-02-26T19:00:19.115Z",
   "sessions": 1,
-  "totalIds": 4,
+  "totalIds": 7,
   "totalClosedImgs": 4,
   "batches": [
-    {"ids":"(4),2026-02-26T18:59:13.093Z,(104419872,238978801,238978806,238978821)"}
+    {"ids":"(4),2026-02-26T18:59:13.093Z,(104419872,238978801,238978806,238978821)"},
+    {"Time Difference":"1m 6s          ","ids":"(3),2026-02-26T19:00:19.115Z,(186759609,223574943,216420878)"}
   ],
   "closedImgs": [
     {"imgs":"(2),2026-02-26T18:59:35.246Z","items":["104419872|https://lt2.pigugroup.eu/colours/105/545/027/105545027/langu-valytuvai-pickify-79578-online_reference.jpg","238978801|https://lt2.pigugroup.eu/colours/239/584/096/239584096/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-b3e83_reference.jpg"]},

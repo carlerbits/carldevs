@@ -3,10 +3,10 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T18:46:06.539Z",
-  "lastSeen": "2026-02-26T18:50:00.364Z",
+  "lastSeen": "2026-02-26T18:50:22.651Z",
   "sessions": 3,
   "totalIds": 6,
-  "totalClosedImgs": 4,
+  "totalClosedImgs": 6,
   "batches": [
     {"ids":"(2),2026-02-26T18:46:25.669Z,(218800063,222540188)"},
     {"Time Difference":"1 min 1 sec","ids":"(2),2026-02-26T18:47:26.481Z,(239035271,222822798)"},
@@ -14,6 +14,7 @@
   ],
   "closedImgs": [
     {"imgs":"(2),2026-02-26T18:47:09.035Z","items":["218800063|https://lt2.pigugroup.eu/colours/219/535/968/219535968/biciu-vasko-medienos-poliravimo-rinkinys-pickify-afde1-uzsakyti_reference.jpg","222540188|https://lt2.pigugroup.eu/colours/223/273/613/223273613/medzio-imitacijos-lipni-pvc-plevele-pickify-0843d-online_reference.jpg"]},
-    {"Time Difference":"53 secs","imgs":"(2),2026-02-26T18:48:01.788Z","items":["239035271|https://lt2.pigugroup.eu/colours/239/640/606/239640606/disney-elsa-flisinis-pledas-namams-ir-kelionems-d304a-vertinimai_reference.jpg","222822798|https://lt2.pigugroup.eu/colours/223/556/223/223556223/universalus-skalbiniu-ir-batu-sepetys-pickify-f4850-uzsakyti_reference.jpg"]}
+    {"Time Difference":"53 secs","imgs":"(2),2026-02-26T18:48:01.788Z","items":["239035271|https://lt2.pigugroup.eu/colours/239/640/606/239640606/disney-elsa-flisinis-pledas-namams-ir-kelionems-d304a-vertinimai_reference.jpg","222822798|https://lt2.pigugroup.eu/colours/223/556/223/223556223/universalus-skalbiniu-ir-batu-sepetys-pickify-f4850-uzsakyti_reference.jpg"]},
+    {"Time Difference":"2 mins 21 secs","imgs":"(2),2026-02-26T18:50:22.651Z","items":["217099188|https://lt2.pigugroup.eu/colours/217/835/098/217835098/pickify-lauko-baldu-uzdangalas-ff605-vertinimai_reference.jpg","217103038|https://lt2.pigugroup.eu/colours/217/838/948/217838948/lauko-baldu-pagalviu-laikymo-krepsiai-pickify-8388e-price_reference.jpg"]}
   ]
 }

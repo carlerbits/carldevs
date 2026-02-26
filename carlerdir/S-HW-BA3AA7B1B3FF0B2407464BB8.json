@@ -3,13 +3,14 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T18:46:06.539Z",
-  "lastSeen": "2026-02-26T18:49:58.773Z",
+  "lastSeen": "2026-02-26T18:50:00.364Z",
   "sessions": 3,
-  "totalIds": 4,
+  "totalIds": 6,
   "totalClosedImgs": 4,
   "batches": [
     {"ids":"(2),2026-02-26T18:46:25.669Z,(218800063,222540188)"},
-    {"Time Difference":"1 min 1 sec","ids":"(2),2026-02-26T18:47:26.481Z,(239035271,222822798)"}
+    {"Time Difference":"1 min 1 sec","ids":"(2),2026-02-26T18:47:26.481Z,(239035271,222822798)"},
+    {"Time Difference":"2 mins 34 secs","ids":"(2),2026-02-26T18:50:00.364Z,(217099188,217103038)"}
   ],
   "closedImgs": [
     {"imgs":"(2),2026-02-26T18:47:09.035Z","items":["218800063|https://lt2.pigugroup.eu/colours/219/535/968/219535968/biciu-vasko-medienos-poliravimo-rinkinys-pickify-afde1-uzsakyti_reference.jpg","222540188|https://lt2.pigugroup.eu/colours/223/273/613/223273613/medzio-imitacijos-lipni-pvc-plevele-pickify-0843d-online_reference.jpg"]},

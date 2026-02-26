@@ -3,10 +3,14 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T18:37:44.472Z",
-  "lastSeen": "2026-02-26T18:38:05.496Z",
+  "lastSeen": "2026-02-26T18:38:35.190Z",
   "sessions": 1,
   "totalIds": 4,
+  "totalClosedImgs": 2,
   "batches": [
     {"ids":"(4),2026-02-26T18:38:05.496Z,(240127951,240127916,239623276,223350488)"}
+  ],
+  "closedImgs": [
+    {"imgs":"(2),2026-02-26T18:38:35.190Z","items":["240127951|https://lt2.pigugroup.eu/colours/240/731/146/240731146/uwell-caliburn-g3-pro-apsauginis-deklas-pickify-f3831-uzsakyti_reference.jpg","223350488|https://lt2.pigugroup.eu/colours/224/083/913/224083913/universalus-dovanu-puodelis-su-dangteliais-pickify-d2b32-vertinimai_reference.jpg"]}
   ]
 }

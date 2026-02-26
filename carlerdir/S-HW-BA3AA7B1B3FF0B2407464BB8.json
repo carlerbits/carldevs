@@ -3,16 +3,17 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-02-26T18:59:05.672Z",
-  "lastSeen": "2026-02-26T19:00:19.115Z",
+  "lastSeen": "2026-02-26T19:00:42.735Z",
   "sessions": 1,
   "totalIds": 7,
-  "totalClosedImgs": 4,
+  "totalClosedImgs": 5,
   "batches": [
     {"ids":"(4),2026-02-26T18:59:13.093Z,(104419872,238978801,238978806,238978821)"},
     {"Time Difference":"1m 6s          ","ids":"(3),2026-02-26T19:00:19.115Z,(186759609,223574943,216420878)"}
   ],
   "closedImgs": [
     {"imgs":"(2),2026-02-26T18:59:35.246Z","items":["104419872|https://lt2.pigugroup.eu/colours/105/545/027/105545027/langu-valytuvai-pickify-79578-online_reference.jpg","238978801|https://lt2.pigugroup.eu/colours/239/584/096/239584096/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-b3e83_reference.jpg"]},
-    {"Time Difference":"7s             ","imgs":"(2),2026-02-26T18:59:42.683Z","items":["238978806|https://lt2.pigugroup.eu/colours/239/584/101/239584101/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-96468-pirkti_reference.jpg","238978821|https://lt2.pigugroup.eu/colours/239/584/116/239584116/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-05669-pirkti_reference.jpg"]}
+    {"Time Difference":"7s             ","imgs":"(2),2026-02-26T18:59:42.683Z","items":["238978806|https://lt2.pigugroup.eu/colours/239/584/101/239584101/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-96468-pirkti_reference.jpg","238978821|https://lt2.pigugroup.eu/colours/239/584/116/239584116/rinkinio-ratlankiu-modifikacijos-komplektas-pickify-05669-pirkti_reference.jpg"]},
+    {"Time Difference":"1m             ","imgs":"(1),2026-02-26T19:00:42.735Z","items":["186759609|https://lt2.pigugroup.eu/colours/187/952/384/187952384/vyriska-odine-pinigine-pickify-e5ba4-online_reference.jpg"]}
   ]
 }

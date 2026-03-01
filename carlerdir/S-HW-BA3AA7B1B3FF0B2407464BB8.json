@@ -3,10 +3,14 @@
   "carlerdirLabel": "Windows 10/11 | Chrome 145 | N/A | Win32",
   "carler": "carl",
   "firstSeen": "2026-03-01T16:50:15.648Z",
-  "lastSeen": "2026-03-01T16:51:35.906Z",
+  "lastSeen": "2026-03-01T16:51:39.073Z",
   "sessions": 3,
   "totalIds": 3,
+  "totalClosedImgs": 1,
   "batches": [
     {"ids":"(3),2026-03-01T16:50:49.000Z,(218957373,219149203,223117458)"}
+  ],
+  "closedImgs": [
+    {"imgs":"(1),2026-03-01T16:51:39.073Z","items":["218957373|https://lt2.pigugroup.eu/colours/219/693/288/219693288/garso-izoliacines-dekoratyvines-sienu-plokstes-pickify-7e701-vertinimai_reference.jpg"]}
   ]
 }

@@ -1,8 +1,10 @@
 {
   "carlerdirId": "HW-BA3AA7B1B3FF0B2407464BB8",
   "firstSeen": "2026-03-01T21:36:47.686Z",
-  "lastSeen": "2026-03-01T21:36:47.686Z",
+  "lastSeen": "2026-03-01T21:37:10.581Z",
   "sessions": 1,
-  "totalIds": 0,
-  "batches": []
+  "totalIds": 4,
+  "batches": [
+    {"ids":"(4),2026-03-01T21:37:10.581Z,(219148003,222776593,223076388,223379538)"}
+  ]
 }

@@ -2,14 +2,15 @@
   "carlerdirId": "HW-BA3AA7B1B3FF0B2407464BB8",
   "carler": "carl",
   "firstSeen": "2026-03-01T18:31:04.188Z",
-  "lastSeen": "2026-03-01T18:32:02.335Z",
+  "lastSeen": "2026-03-01T18:32:19.119Z",
   "sessions": 1,
   "totalIds": 3,
-  "totalClosedImgs": 1,
+  "totalClosedImgs": 2,
   "batches": [
     {"ids":"(3),2026-03-01T18:31:35.363Z,(218957373,219149203,223117458)"}
   ],
   "closedImgs": [
-    {"imgs":"(1),2026-03-01T18:32:02.335Z","items":["218957373|https://lt2.pigugroup.eu/colours/219/693/288/219693288/garso-izoliacines-dekoratyvines-sienu-plokstes-pickify-7e701-vertinimai_reference.jpg"]}
+    {"imgs":"(1),2026-03-01T18:32:02.335Z","items":["218957373|https://lt2.pigugroup.eu/colours/219/693/288/219693288/garso-izoliacines-dekoratyvines-sienu-plokstes-pickify-7e701-vertinimai_reference.jpg"]},
+    {"Time Difference":"17s            ","imgs":"(1),2026-03-01T18:32:19.119Z","items":["223117458|https://lt2.pigugroup.eu/colours/223/850/883/223850883/plieniniu-kalibravimo-svoriu-rinkinys-svarstyklems-pickify-c168a-uzsakyti_reference.jpg"]}
   ]
 }

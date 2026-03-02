@@ -1,10 +1,14 @@
 {
   "carlerdirId": "HW-6DE82D796B6723FE54C05209",
   "firstSeen": "2026-03-02T17:33:01.869Z",
-  "lastSeen": "2026-03-02T17:36:48.877Z",
+  "lastSeen": "2026-03-02T17:36:58.102Z",
   "sessions": 3,
   "totalIds": 3,
+  "totalClosedImgs": 1,
   "batches": [
     {"ids":"(3),2026-03-02T17:33:11.407Z,(223015913,223059788,223233398)"}
+  ],
+  "closedImgs": [
+    {"imgs":"(1),2026-03-02T17:36:58.102Z","items":["223015913|https://lt2.pigugroup.eu/colours/223/749/338/223749338/saules-daviklio-sviestuvas-su-nuotolinio-valdymo-pultu-9b92e-pirkti_reference.jpg"]}
   ]
 }

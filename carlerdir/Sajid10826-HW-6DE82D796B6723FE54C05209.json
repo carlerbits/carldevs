@@ -1,10 +1,10 @@
 {
   "carlerdirId": "HW-6DE82D796B6723FE54C05209",
   "firstSeen": "2026-03-02T17:33:01.869Z",
-  "lastSeen": "2026-03-02T18:03:43.329Z",
+  "lastSeen": "2026-03-02T18:03:50.801Z",
   "sessions": 16,
   "totalIds": 11,
-  "totalClosedImgs": 4,
+  "totalClosedImgs": 6,
   "batches": [
     {"ids":"(3),2026-03-02T17:33:11.407Z,(223015913,223059788,223233398)"},
     {"Time Difference":"24m 58s        ","ids":"(2),2026-03-02T17:58:09.293Z,(223103313,223404318)"},
@@ -13,6 +13,7 @@
   "closedImgs": [
     {"imgs":"(1),2026-03-02T17:36:58.102Z","items":["223015913|https://lt2.pigugroup.eu/colours/223/749/338/223749338/saules-daviklio-sviestuvas-su-nuotolinio-valdymo-pultu-9b92e-pirkti_reference.jpg"]},
     {"Time Difference":"35s            ","imgs":"(1),2026-03-02T17:37:33.051Z","items":["223059788|https://lt2.pigugroup.eu/colours/223/793/213/223793213/diodu-rinkinys-elektriniams-projektams-pickify-67220-pigiau_reference.jpg"]},
-    {"Time Difference":"24m 58s        ","imgs":"(2),2026-03-02T18:02:30.937Z","items":["223005903|https://lt2.pigugroup.eu/colours/223/739/328/223739328/led-zvakes-be-liepsnos-su-nuotolinio-valdymo-3697f_reference.jpg","223103593|https://lt2.pigugroup.eu/colours/223/837/018/223837018/medine-kaledine-geliu-sienu-dekoracija-pickify-bd106-internetu_reference.jpg"]}
+    {"Time Difference":"24m 58s        ","imgs":"(2),2026-03-02T18:02:30.937Z","items":["223005903|https://lt2.pigugroup.eu/colours/223/739/328/223739328/led-zvakes-be-liepsnos-su-nuotolinio-valdymo-3697f_reference.jpg","223103593|https://lt2.pigugroup.eu/colours/223/837/018/223837018/medine-kaledine-geliu-sienu-dekoracija-pickify-bd106-internetu_reference.jpg"]},
+    {"Time Difference":"1m 20s         ","imgs":"(2),2026-03-02T18:03:50.801Z","items":["223090588|https://lt2.pigugroup.eu/colours/223/824/013/223824013/kaledinis-privatumo-ekranas-su-saldainiais-pickify-fd7c5-pigiau_reference.jpg","223101638|https://lt2.pigugroup.eu/colours/223/835/063/223835063/linksmu-kaledu-medinis-apskritas-zenklas-pickify-16ebb-internetu_reference.jpg"]}
   ]
 }

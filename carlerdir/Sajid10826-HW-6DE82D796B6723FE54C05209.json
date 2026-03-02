@@ -1,14 +1,15 @@
 {
   "carlerdirId": "HW-6DE82D796B6723FE54C05209",
   "firstSeen": "2026-03-02T17:33:01.869Z",
-  "lastSeen": "2026-03-02T17:37:30.573Z",
+  "lastSeen": "2026-03-02T17:37:33.051Z",
   "sessions": 4,
   "totalIds": 3,
-  "totalClosedImgs": 1,
+  "totalClosedImgs": 2,
   "batches": [
     {"ids":"(3),2026-03-02T17:33:11.407Z,(223015913,223059788,223233398)"}
   ],
   "closedImgs": [
-    {"imgs":"(1),2026-03-02T17:36:58.102Z","items":["223015913|https://lt2.pigugroup.eu/colours/223/749/338/223749338/saules-daviklio-sviestuvas-su-nuotolinio-valdymo-pultu-9b92e-pirkti_reference.jpg"]}
+    {"imgs":"(1),2026-03-02T17:36:58.102Z","items":["223015913|https://lt2.pigugroup.eu/colours/223/749/338/223749338/saules-daviklio-sviestuvas-su-nuotolinio-valdymo-pultu-9b92e-pirkti_reference.jpg"]},
+    {"Time Difference":"35s            ","imgs":"(1),2026-03-02T17:37:33.051Z","items":["223059788|https://lt2.pigugroup.eu/colours/223/793/213/223793213/diodu-rinkinys-elektriniams-projektams-pickify-67220-pigiau_reference.jpg"]}
   ]
 }
